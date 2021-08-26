@@ -1,2 +1,2 @@
 # cat-app
-random cat gallery image app with ajax using bootstrap and jquery
+random cat gallery image generator with ajax using bootstrap and jquery
